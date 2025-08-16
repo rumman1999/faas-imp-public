@@ -7,7 +7,7 @@ name = "mycalc"
 version = "0.1.0"
 description = "A simple local math calculation library"
 authors = [
-  { name = "Rumman", email = "rummanmo1999@gmail.com }
+  { name = "Rumman", email = "rummanmo1999@gmail.com" }
 ]
 license = { text = "MIT" }
 dependencies = []
